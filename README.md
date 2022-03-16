@@ -5,6 +5,16 @@
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" target="_blank">
 
+### 📚 **Formação:**
+- Física - licenciatura;
+- Especialização em Estatística Aplicada;
+- Mestrando em Estatística.
+
+
+### 💡 **Linguagens de programação:**
+- Linguagem C
+- Linguagem OX
+- Python
 
 ### 📝 **Interesses:**
 - Análise e Processamento de Imagens Digitais;
@@ -13,15 +23,7 @@
 - Redes Neurais convolucionais;
 - Séries temporais.
 
-### 📚 **Formação:**
-- Física - licenciatura;
-- Especialização em Estatística Aplicada;
-- Mestrando em Estatística.
 
-### 💡 **Linguagens de programação:**
-- Linguagem C
-- Linguagem OX
-- Python
 
 <div>
 <a href="https://github.com/luciano-mendes-jr">
@@ -31,4 +33,4 @@
 
 ## _____
 
-📫 Contate-me por: lucianojuniormendes4@gmail.com
+📫 Contate-me por: computa.cientifica@gmail.com
